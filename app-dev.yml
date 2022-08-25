@@ -9,6 +9,6 @@ test01:
 ws:
   mp:
     scheme: "https"
-    url: "google.com.br2"
+    url: "google.com.br"
     path: "/offers"
     envirment: "OC"
